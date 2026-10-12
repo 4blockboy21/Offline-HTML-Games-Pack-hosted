@@ -8,7 +8,7 @@
 
 The downside of inlining everything is the file size. If you're running the files via a code editor, it's better to use **single-file.html**. It lets you fetch the files from the web or import your own.
 
-
+This version was modified to be openable with GitHub pages
 <br>
 
 # For **Chromebooks** - See [chromeOS.md](methods/chromeOS.md)
